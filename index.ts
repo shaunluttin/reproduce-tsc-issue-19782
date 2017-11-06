@@ -1,8 +1,8 @@
-import  ModelValidator from "./model-validator";
+import Bar from "./bar";
 
 export default () => {
 
     // validation
-    const modelValidator = new ModelValidator<any>();
-    console.log(modelValidator);
+    const bar = new Bar();
+    console.log(bar);
 };
