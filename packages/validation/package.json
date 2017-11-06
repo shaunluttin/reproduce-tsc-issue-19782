@@ -1,0 +1,6 @@
+{
+  "name": "@organization/validation",
+  "dependencies": {
+    "rawmodel": "^1.20.0"
+  }
+}
