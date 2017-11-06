@@ -5,12 +5,10 @@
         "sourceMap": true,
         "experimentalDecorators": true,
         "emitDecoratorMetadata": true,
-        "forceConsistentCasingInFileNames": true,
         "lib": [
             "es2017",
             "dom"
-        ],
-        "noUnusedLocals": true
+        ]
     },
     "exclude": [
         "node_modules"

@@ -1,2 +1,1 @@
-export default abstract class  {
-}
+export default abstract class  { }
