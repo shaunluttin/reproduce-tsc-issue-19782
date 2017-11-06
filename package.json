@@ -2,9 +2,6 @@
   "scripts": {
     "build": "tsc"
   },
-  "dependencies": {
-    "@organization/validation": "file:packages/validation"
-  },
   "devDependencies": {
     "typescript": "^2.6.0"
   }

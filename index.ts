@@ -1,4 +1,4 @@
-import { ModelValidator } from "@organization/validation";
+import  ModelValidator from "./model-validator";
 
 export default () => {
 
